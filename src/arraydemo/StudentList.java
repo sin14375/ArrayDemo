@@ -4,6 +4,7 @@ package arraydemo;
 /**
  *Modifies by Harsh on 17 Jan
  * @author singh
+ * Commit was checked by me.
  */
 public class StudentList {
     public static void main(String[] args)
