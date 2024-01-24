@@ -7,7 +7,7 @@ package arraydemo;
 import java.util.Scanner;
 
 /**
- * Added commments for pull 
+ * Added comments for fetch and merge 
  * @author singh
  */
 public class ArrayDemo {
